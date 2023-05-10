@@ -11,4 +11,5 @@ first argument is name and second argument is color
 code : 
 
 import alphabet_lib
+
 alphabet_lib.alpha_char('mohsen','red')
